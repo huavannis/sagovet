@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hvnis_jsondb_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hvnis-jsondb/out/artifacts/hvnis_jsondb_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../hvnis-jsondb/out/artifacts/hvnis_jsondb_jar" recursive="false" />
+  </library>
+</component>
